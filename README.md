@@ -15,5 +15,7 @@ In general, the program is able to accept an input file, construct sequences, de
 3) Write resultant sequence to output file.
 
 ## Usage
+```
 python assembly.py -i <input file> -o <output file>
+```
 
